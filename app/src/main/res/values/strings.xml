@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RedHelper</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="accessibility_query_window_description">RedPacketHelper App Accessibility Service</string>
+    <string name="accessibility_query_window_label">RedPacketHelper</string>
+    <string name="red_packet_helper">RedPacketHelper</string>
+    <string name="lock_screen">锁屏抢红包</string>
+    <string name="auto_back_talk_list">自动返回聊天页面</string>
+    <string name="sound_hint">声音提示</string>
+    <string name="screen_always_light">屏幕常亮</string>
+
+</resources>
